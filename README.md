@@ -17,3 +17,7 @@ Visita el [Repositorio Backend](https://github.com/Jd-briceno/Back_p1-2_BI) para
 ---
 
 Haz clic en los enlaces de arriba para acceder a cada repositorio.
+
+---
+
+El documento de la segunda parte del proyecto se encuenta como pdf con el nombre Documento proyecto 1 parte 2 adjunto en este repositorio

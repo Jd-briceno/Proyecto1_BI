@@ -1,6 +1,6 @@
 # Proyecto P1-2_BI
 
-Este proyecto está dividido en dos repositorios principales:
+La segunda parte de este proyecto está dividido en dos repositorios principales:
 
 ## Repositorio Frontend
 
